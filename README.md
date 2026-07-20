@@ -2,7 +2,7 @@
 
 # hey, I'm Deba 👋
 
-**Backend dev (Python / Django) · Final-year CS diploma student · builds things around IPL cricket because why not**
+**Backend dev (Python / Django) · Final-year CS diploma student · builds things around my Little world because why not**
 
 </div>
 
