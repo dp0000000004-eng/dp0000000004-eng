@@ -17,9 +17,8 @@ Still in college, still figuring things out — but I ship. Mostly backend stuff
 I build a lot of my side projects around IPL cricket because it's the one subject I never get bored writing code for.
 
 - 🎓 3rd-year CS diploma student
-- 🛠️ Python, Django, and just enough JS/React to be dangerous
+- 🛠️ Python, Django, and just enough JS/React to be poor develover :)
 - 🌘 dark-mode everything — code, UI, phone, all of it
-- 📈 actively looking for a backend internship — hit me up if you're hiring
 
 <br>
 
