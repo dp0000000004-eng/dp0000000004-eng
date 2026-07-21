@@ -48,15 +48,6 @@ I build a lot of my side projects around IPL cricket because it's the one subjec
 
 <br>
 
-## stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dp0000000004-eng&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dp0000000004-eng&theme=midnight-purple&hide_border=true" width="48%" />
-
-</div>
-
 <br>
 
 ## connect
