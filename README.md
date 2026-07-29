@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Deba 👋
+# hey, I'm Deba <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 **Backend dev (Python / Django) · Final-year CS diploma student · builds things around my Little world because why not**
 
