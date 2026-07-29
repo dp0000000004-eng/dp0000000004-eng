@@ -6,7 +6,6 @@
 
 </div>
 
-[![cat](https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif)](https://github.com/yumiaura/mycat)
 
 <br>
 
