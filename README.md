@@ -11,7 +11,7 @@
 
 ## about
 
-Still in college, still figuring things out — but I ship. Mostly backend stuff in Django, occasionally dragged into frontend when a project needs it. Finished the Meta Back-End Developer cert, now stacking real projects on top of it instead of stopping there.
+Still in college, still figuring things out — but I ship. Mostly backend stuff in Django, occasionally dragged into frontend when a project needs it. Now stacking real projects on top of it instead of stopping there.
 
 I build a lot of my side projects around IPL cricket because it's the one subject I never get bored writing code for.
 
@@ -24,8 +24,8 @@ I build a lot of my side projects around IPL cricket because it's the one subjec
 
 | Project | What it is |
 |---|---|
-| **Student Tracker** | Attendance management system for CRs & professors — Django, Postgres, deployed on Vercel |
-| **IPL Cricket App** | Teams, players, venues, matches, seat booking — full Django app themed around IPL |
+| **Paw Byte** | a collage portal with gen AI assistant with DRF API Integration. Doing this with my team <3 |
+| **IPL Cricket App** | Teams, players, venues, matches, seat booking — full DRF app themed around IPL |
 | **WebDeb** | Personal portfolio — React + Vite |
 
 <br>
