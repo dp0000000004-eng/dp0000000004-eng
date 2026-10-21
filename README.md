@@ -16,7 +16,7 @@ Still in college, still figuring things out — but I ship. Mostly backend stuff
 I build a lot of my side projects around IPL cricket because it's the one subject I never get bored writing code for.
 
 -  3rd-year CS diploma student
--  Python, Django, and just enough JS/React to be poor develover :)
+-  Python, Django, and just JS/React when need
 
 <br>
 
@@ -58,5 +58,5 @@ I build a lot of my side projects around IPL cricket because it's the one subjec
 <br>
 
 <div align="center">
-<sub>currently debugging something at 2am, probably not a playing game any more T-T</sub>
+<sub>currently debugging something at 2am, probably not a playing game any more Y-Y</sub>
 </div>
